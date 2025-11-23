@@ -204,9 +204,5 @@ Academic project - Amrita Vishwa Vidyapeetham, Coimbatore
 - Vibhu Sanchana (CB.SC.U4AIE23347)
 - Malavika S Prasad (CB.SC.U4AIE23315)
 
-**Supervisor**: Dr. Neelesh Ashok  
+**Supervisor**: Prem Jagadeeshan  
 **Department**: Artificial Intelligence, Amrita Vishwa Vidyapeetham
-
----
-
-For more details, refer to the IEEE paper: `enhanced_ieee_paper.tex`
